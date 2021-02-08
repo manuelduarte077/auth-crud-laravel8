@@ -29,4 +29,3 @@ class AppServiceProvider extends ServiceProvider
 }
 
 
-TERBARU LARAVEL 8 - Auth & CRUD menggunakan Laravel Jetstream, Livewire & Tailwi (1)
